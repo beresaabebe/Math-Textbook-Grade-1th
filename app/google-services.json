@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437050200413",
+    "project_id": "math-textbook-grade-11th",
+    "storage_bucket": "math-textbook-grade-11th.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437050200413:android:5967a0a1b5949f8fa118b4",
+        "android_client_info": {
+          "package_name": "com.beckytech.mathtextbookgrade11th"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437050200413-08gev06glh5mr5qrkli53al4iacj2qkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkJQg7btACAfuGgy7epPRn118OvJlah1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437050200413-08gev06glh5mr5qrkli53al4iacj2qkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
