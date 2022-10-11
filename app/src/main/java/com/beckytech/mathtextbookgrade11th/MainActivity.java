@@ -85,7 +85,7 @@ public class MainActivity extends AppCompatActivity implements Adapter.OnItemCli
             modelList.add(new Model(titleContents.title[i].substring(0,1).toUpperCase()+""+
                     titleContents.title[i].substring(1).toLowerCase(),
                     subTitleContents.subTitle[i],
-                    R.drawable.nav_header_bg,
+                    R.drawable.icon,
                     startPage.pageStart[i],
                     endPage.pageEnd[i]));
         }
